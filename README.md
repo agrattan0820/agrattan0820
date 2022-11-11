@@ -22,7 +22,7 @@ Full-Stack Developer
 * 🌍  I'm based in Pittsburgh, PA
 * 🖥️  See my portfolio at [agattan.com](http://agrattan.com/)
 * ✉️  You can contact me at [alex@grattan.me](mailto:alex@grattan.me)
-* 🧠  I'm learning Advanced TypeScript and Golang
+* 🧠  I'm learning Golang and more advanced TypeScript
 
 ### Badges
 

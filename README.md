@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![image](https://user-images.githubusercontent.com/51346343/201241572-d3b30f79-b340-4de1-9d24-6adc9035fce1.png)
+
 Hi 👋 My name is Alexander Grattan
 ==================================
 

@@ -19,10 +19,12 @@ Hi 👋 My name is Alexander Grattan
 Full-Stack Developer
 --------------------
 
-* 🌍  I'm based in Pittsburgh, PA
-* 🖥️  See my portfolio at [agattan.com](http://agrattan.com/)
-* ✉️  You can contact me at [alex@grattan.me](mailto:alex@grattan.me)
-* 🧠  I'm learning Golang and advanced TypeScript
+- 🌍  I'm based in Pittsburgh, PA
+- 🎓  I'm currently finishing my degree in Digital Narrative and Interactive Design at the University of Pittsburgh
+- 🌱  I'm learning Golang and how to use more advanced types + algorithms in TypeScript
+- 🥣  My favorite cereal combination is Honey Bunches of Oats and Honey Nut Cheerios 😋  
+- 🖥️  See my portfolio at [agattan.com](http://agrattan.com/)
+- 📫  You can contact me at [alex@grattan.me](mailto:alex@grattan.me)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GameDog9988&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GameDog9988's GitHub stats" width=400 />

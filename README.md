@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 Hello there 👋
 ==================================
 
+<a href="https://youtu.be/rEq1Z0bjdwc" target="_blank">
 <p align="center">
 <img src="https://user-images.githubusercontent.com/51346343/201241572-d3b30f79-b340-4de1-9d24-6adc9035fce1.png" alt="Obi Wan Kenobi hello there meme" width=400 height=200 style="object-fit:contain" />
 <img src="https://user-images.githubusercontent.com/51346343/201242896-c71a6026-48b4-4407-8cb4-988030f7b59a.png" alt="General Grievous hello there meme" width=400 height=200 style="object-fit:contain" />
-</p>  
+</p>
+</a>
 
 - 🌍  I'm based in Pittsburgh, PA
 - 🎓  I'm currently finishing my degree in Digital Narrative and Interactive Design at the University of Pittsburgh

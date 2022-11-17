@@ -33,6 +33,15 @@ Hello there 👋
 - 📫  You can contact me at [alex@grattan.me](mailto:alex@grattan.me)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 10 November 2022 - To: 17 November 2022
+
+TypeScript   18 hrs 22 mins  ████████████▒░░░░░░░░░░░░   49.95 %
+Dart         15 hrs 53 mins  ██████████▓░░░░░░░░░░░░░░   43.22 %
+Other        46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">

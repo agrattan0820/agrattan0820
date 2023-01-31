@@ -35,7 +35,7 @@ Hello there 👋
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 28 January 2023
+From: 10 November 2022 - To: 29 January 2023
 
 TypeScript       272 hrs 8 mins  ████████████████████░░░░░   79.66 %
 Dart             33 hrs 39 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %

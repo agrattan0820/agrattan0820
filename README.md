@@ -26,9 +26,9 @@ Hello there 👋
 </a>
 
 - 🌍  I'm based in Pittsburgh, PA
-- 🎓  I'm currently finishing my degree in Digital Narrative and Interactive Design at the University of Pittsburgh
+- 🎓  Studied Digital Narrative and Interactive Design and Computer Science at the University of Pittsburgh
 - 🌱  I'm learning Golang and how to use more advanced types + algorithms in TypeScript
-- 🥣  My favorite cereal combination is Honey Bunches of Oats and Honey Nut Cheerios 😋  
+- 🥣  My favorite cereal combination is Honey Bunches of Oats and Honey Nut Cheerios 😋
 - 🖥️  See my portfolio at [agattan.com](http://agrattan.com/)
 - 📫  You can contact me at [alex@grattan.me](mailto:alex@grattan.me)
 

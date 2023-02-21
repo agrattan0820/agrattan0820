@@ -35,7 +35,9 @@ Hello there 👋
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 18 February 2023
+From: 10 November 2022 - To: 19 February 2023
+
+Total Time: 418 hrs 27 mins
 
 TypeScript       331 hrs 3 mins  ███████████████████▓░░░░░   79.11 %
 Dart             33 hrs 39 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %

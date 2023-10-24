@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hello there 👋
 ==================================
 
-![hello-there](https://github.com/agrattan0820/agrattan0820/assets/51346343/689e56eb-29be-46a5-a079-28ea727b5f7e)
+![Obi Wan Kenobi from Star Wars jumping down and greeting General Grievous in Star Wars: Episode III – Revenge of the Sith](https://github.com/agrattan0820/agrattan0820/assets/51346343/689e56eb-29be-46a5-a079-28ea727b5f7e)
 
 
 - 🌍  I'm based in Pittsburgh, PA

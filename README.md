@@ -31,7 +31,7 @@ Hello there 👋
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2024 - To: 10 February 2024
+From: 04 February 2024 - To: 11 February 2024
 
 Astro        19 hrs 11 mins  ████████████▓░░░░░░░░░░░░   51.17 %
 TypeScript   15 hrs 49 mins  ██████████▓░░░░░░░░░░░░░░   42.17 %

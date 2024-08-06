@@ -24,7 +24,7 @@ Hello there 👋
 - 🌍  I'm based in Pittsburgh, PA
 - 🔭  I currently work at [Actual Size](https://actualsize.com/) as a software developer
 - 🎓  Studied Digital Narrative and Interactive Design and Computer Science at the University of Pittsburgh
-- 👾  I recently made a Quiplash-style game where the players answer with AI-generated images called [Artificial Unintelligence](https://github.com/agrattan0820/artificial-unintelligence)
+- 👾  I recently made a Quiplash-style game where players answer with AI-generated images called [Artificial Unintelligence](https://github.com/agrattan0820/artificial-unintelligence)
 - ⚽  In my free time I like to play soccer, read, and play board games with friends
 - 🥣  My favorite cereal combination is Honey Bunches of Oats and Honey Nut Cheerios 😋
 - 🖥️  See my portfolio at [agattan.com](http://agrattan.com/)

@@ -22,7 +22,7 @@ Hello there 👋
 
 
 - 🌍  I'm based in Pittsburgh, PA
-- 🔭  I currently work at [Actual Size](https://actualsize.com/) as a software developer
+- 🦢  I currently work at [Gray Swan AI](https://www.grayswan.ai) as a software engineer
 - 🎓  Studied Digital Narrative and Interactive Design and Computer Science at the University of Pittsburgh
 - 👾  I recently made a Quiplash-style game where players answer with AI-generated images called [Artificial Unintelligence](https://github.com/agrattan0820/artificial-unintelligence)
 - ⚽  In my free time I like to play soccer, read, and play board games with friends

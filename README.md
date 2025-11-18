@@ -33,7 +33,7 @@ Hello there 👋
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2025 - To: 16 November 2025
+From: 10 November 2025 - To: 17 November 2025
 
 TypeScript   8 hrs 34 mins   █████████▓░░░░░░░░░░░░░░░   38.30 %
 YAML         4 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.03 %

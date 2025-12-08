@@ -33,7 +33,7 @@ Hello there 👋
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2025 - To: 06 December 2025
+From: 30 November 2025 - To: 07 December 2025
 
 TypeScript     8 hrs 35 mins   ████████████▒░░░░░░░░░░░░   49.30 %
 Svelte         2 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.36 %

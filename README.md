@@ -33,13 +33,13 @@ Hello there 👋
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 February 2026 - To: 24 February 2026
+From: 18 February 2026 - To: 25 February 2026
 
-TypeScript   7 hrs 10 mins         ██████████▓░░░░░░░░░░░░░░   42.91 %
-Svelte       3 hrs 8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
-Markdown     1 hr 39 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Bash         1 hr 17 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-JSON         1 hr 10 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+TypeScript   7 hrs 29 mins         ███████████▒░░░░░░░░░░░░░   44.86 %
+Svelte       3 hrs 44 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
+Markdown     1 hr 29 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+Bash         1 hr 3 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+JSON         47 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->

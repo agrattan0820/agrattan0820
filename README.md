@@ -33,13 +33,13 @@ Hello there 👋
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2026 - To: 07 June 2026
+From: 01 June 2026 - To: 08 June 2026
 
-TypeScript     10 hrs 5 mins         ████████░░░░░░░░░░░░░░░░░   32.10 %
-Python         4 hrs 52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
-Markdown       3 hrs 22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-Svelte         2 hrs 38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Bash           2 hrs 28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+TypeScript     10 hrs 5 mins         ███████▒░░░░░░░░░░░░░░░░░   29.51 %
+Python         6 hrs 53 mins         █████░░░░░░░░░░░░░░░░░░░░   20.17 %
+Markdown       4 hrs 6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
+Svelte         2 hrs 38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+Bash           2 hrs 28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
 ```
 
 <!--END_SECTION:waka-->

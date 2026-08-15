@@ -33,13 +33,13 @@ Hello there 👋
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2026 - To: 13 August 2026
+From: 07 August 2026 - To: 14 August 2026
 
-YAML           9 hrs 54 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
-Markdown       9 hrs 21 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
-JSON           7 hrs 29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-TypeScript     4 hrs 44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
-Python         3 hrs 24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Markdown       8 hrs 4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
+YAML           7 hrs 55 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
+JSON           7 hrs 28 mins         █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+TypeScript     4 hrs                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+Python         2 hrs 28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
 ```
 
 <!--END_SECTION:waka-->
